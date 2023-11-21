@@ -7,12 +7,17 @@ public class CatapultScript : MonoBehaviour
 {
     private Rigidbody2D _currentBallRBody;
     private SpringJoint2D _currentSpringJoint;
+    private AudioSource _audio;
     private GameObject _spawnBall;
+    [SerializeField] private AudioClip _fireClip;
     [SerializeField] private Rigidbody2D _pivot;
     [SerializeField] private GameObject _ballPrefabs;
     [SerializeField] private float _detachDelay = 0.5f,_spawnDelay = 0.5f;
-
     private bool _isDragging;
+    private void Awake()
+    {
+        _audio = GetComponent<AudioSource>();
+    }
     private void Start()
     {
         Respawner();
@@ -49,6 +54,7 @@ public class CatapultScript : MonoBehaviour
     private void LounchBall()
     {
         _currentBallRBody.isKinematic = false;
+        _audio.PlayOneShot(_fireClip);
         _currentBallRBody = null;
         Invoke(nameof(DetachBall),_detachDelay);
 

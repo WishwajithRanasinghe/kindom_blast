@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 578f762a5be2e9a47b501fde1ba8721b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angrybirdassets 1_29
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 689
+        width: 949
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dcc921a5366584e865fe6f64d0d9ba
+      internalID: 1218252117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angrybirdassets 1_41
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 30
+        width: 457
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2135ba6ab02006c428f67e2feaf244cb
+      internalID: -1388512115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angrybirdassets 1_46
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 30
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbb564d8fb03aa4c92c3e5c4abd625f
+      internalID: 1264842431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Angrybirdassets 1_0: -296569768
+      Angrybirdassets 1_1: -122871824
+      Angrybirdassets 1_10: -195856277
+      Angrybirdassets 1_11: 1803732383
+      Angrybirdassets 1_12: 197393359
+      Angrybirdassets 1_13: -2050518559
+      Angrybirdassets 1_14: 629878456
+      Angrybirdassets 1_15: -209885448
+      Angrybirdassets 1_16: -1648554004
+      Angrybirdassets 1_17: -84558939
+      Angrybirdassets 1_18: -1027716754
+      Angrybirdassets 1_19: -966340118
+      Angrybirdassets 1_2: 847815145
+      Angrybirdassets 1_20: -845226992
+      Angrybirdassets 1_21: -1182528431
+      Angrybirdassets 1_22: -1849883132
+      Angrybirdassets 1_23: -684519170
+      Angrybirdassets 1_24: -107286026
+      Angrybirdassets 1_25: 1299489496
+      Angrybirdassets 1_26: -1869754063
+      Angrybirdassets 1_27: 587489135
+      Angrybirdassets 1_28: -466025613
+      Angrybirdassets 1_29: 1218252117
+      Angrybirdassets 1_3: 1856297501
+      Angrybirdassets 1_30: -106545600
+      Angrybirdassets 1_31: -1857352894
+      Angrybirdassets 1_32: 1755152323
+      Angrybirdassets 1_33: -784789087
+      Angrybirdassets 1_34: -1314347338
+      Angrybirdassets 1_35: -2020466303
+      Angrybirdassets 1_36: -1763764931
+      Angrybirdassets 1_37: -404279867
+      Angrybirdassets 1_38: 1325235374
+      Angrybirdassets 1_39: -28292859
+      Angrybirdassets 1_4: 577868990
+      Angrybirdassets 1_40: -70015089
+      Angrybirdassets 1_41: -1388512115
+      Angrybirdassets 1_42: 836070560
+      Angrybirdassets 1_43: -677764257
+      Angrybirdassets 1_44: 415329165
+      Angrybirdassets 1_45: 312687620
+      Angrybirdassets 1_46: 1264842431
+      Angrybirdassets 1_5: 599285949
+      Angrybirdassets 1_6: 1325843237
+      Angrybirdassets 1_7: 932687673
+      Angrybirdassets 1_8: -743994989
+      Angrybirdassets 1_9: -1640694248
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
