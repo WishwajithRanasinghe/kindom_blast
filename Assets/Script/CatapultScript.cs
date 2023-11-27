@@ -26,6 +26,7 @@ public class CatapultScript : MonoBehaviour
 
     private void Update()
     {
+        if(Camera.main.ScreenToWorldPoint(Touchscreen.current.primaryTouch.position.ReadValue()).x >= transform.position.x) return;
         TouchInput();
         
     }// Update 
@@ -34,6 +35,7 @@ public class CatapultScript : MonoBehaviour
         if(_currentBallRBody == null) {return;}
         if(!Touchscreen.current.primaryTouch.press.isPressed)
         {
+            
             if(_isDragging == true)
             {
                 LounchBall();
